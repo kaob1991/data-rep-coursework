@@ -18,7 +18,7 @@ replace_text= "Katie"
 
 
 #get repo clone url
-repo = g.get_repo("kaob1991/data-rep-coursework")
+repo = g.get_repo("kaob1991/data-representation-coursework")
 #print(repo.clone_url)
 
 #get url of individual contents of git repo
